@@ -4,14 +4,25 @@
     "verantwoordelijke_organisatie": "Departement Cultuur, Jeugd en Media",
     "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO000067",
     "publicatiedatum": "TBD",
-    "type_toepassing": "TBD",
+    "type_toepassing": "Aanbevolgen (vrijwillig)",
     "categorie": "Applicatieprofiel",
     "beschrijving" : "ap-doelgericht-digitaal-transformeren-config.md",
     "specificatiedocument": [],
     "documentatie": [],
+
     "charter": [],
-    "verslagen": [],
-    "presentaties": [],
+    "verslagen": [
+  {
+	"naam":"Verslag Business werkgroep - 16 november 2021",
+	"waarde":"20211116_BusinessWorkshop_MeetingMinutes_OSLODoelgerichtDigitaalTransformeren.docx"
+  }
+  ],
+    "presentaties": [
+  {
+	"naam":"Presentatie Business werkgroep - 16 november 2021",
+	"waarde":"20211116 _BusinessWorkshop_Powerpoint_OSLODoelgerichtDigitaalTransformeren.pptx"
+  }
+  ],
     "functioneel_toepassingsgebied": "Semantische standaard voor de digitale transformatie van de cultuursector",
     "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
     "datum_van_aanmelding": "1 oktober 2021",
