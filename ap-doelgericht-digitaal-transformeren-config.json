@@ -9,9 +9,24 @@
     "beschrijving" : "ap-doelgericht-digitaal-transformeren-config.md",
     "specificatiedocument": [],
     "documentatie": [],
-    "charter": [],
-    "verslagen": [],
-    "presentaties": [],
+    "charter": [
+{
+	"naam": "Werkgroep Charter Doelgericht Digitaal Transformeren",
+	"waarde": "Werkgroep Charter OSLO Doelgericht Digitaal Transformeren.docx"
+}
+],
+    "verslagen": [
+{
+	"naam": "Verslag Business werkgroep - 16 november 2021"
+	"waarde": "20211116_BusinessWorkshop_MeetingMinutes_OSLODoelgerichtDigitaalTransformeren.docx"
+}
+],
+    "presentaties": [
+{
+	"naam":	"Presentatie Business werkgroep - 16 november 2021"
+	"waarde": "20211116 _BusinessWorkshop_Powerpoint_OSLODoelgerichtDigitaalTransformeren.pptx"
+}
+],
     "functioneel_toepassingsgebied": "Semantische standaard voor de digitale transformatie van de cultuursector",
     "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
     "datum_van_aanmelding": "1 oktober 2021",
