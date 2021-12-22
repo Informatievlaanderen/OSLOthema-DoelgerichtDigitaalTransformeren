@@ -1,18 +1,18 @@
 [
 {
-  "name": "mijn-applicatieprofiel-ap",
+  "name": "DoelgerichtDigitaalTransformeren-ap",
   "type": "ap",
   "eap": "MijnApplicatieprofiel-AP.eap",
-  "diagram": "MijnApplicatieprofiel",
-  "template": "mijn-applicatieprofiel-ap.j2",
-  "title": "Mijn Applicatieprofiel",
+  "diagram": "OSLO-DDT",
+  "template": "DoelgerichtDigitaalTransformeren-ap.j2",
+  "title": "Doelgericht Digitaal Transformeren",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2020-01-31",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "MijnKolom",
-  "site": "site-skeleton/mijn-applicatieprofiel-ap",
-  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mijnThema/issues",
+  "site": "site-skeleton/OSLO-DoelgerichtDigitaalTransformeren",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-DoelgerichtDigitaalTransformeren/issues",
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html"
 }
 ]
