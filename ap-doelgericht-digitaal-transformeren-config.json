@@ -1,43 +1,43 @@
 {
-    "naam": "Applicatieprofiel Doelgericht Digitaal Transformeren",
-    "rapport" : "",
-    "verantwoordelijke_organisatie": "Departement Cultuur, Jeugd en Media",
-    "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO000067",
-    "publicatiedatum": "TBD",
-    "type_toepassing": "TBD",
-    "categorie": "Applicatieprofiel",
-    "beschrijving" : "ap-doelgericht-digitaal-transformeren-config.md",
-    "specificatiedocument": [],
-    "documentatie": [],
-    "charter": [
-{
-	"naam": "Werkgroep Charter Doelgericht Digitaal Transformeren",
-	"waarde": "Werkgroep Charter OSLO Doelgericht Digitaal Transformeren.docx"
+  "naam": "Applicatieprofiel Doelgericht Digitaal Transformeren",
+  "rapport": "",
+  "verantwoordelijke_organisatie": "Departement Cultuur, Jeugd en Media",
+  "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO000067",
+  "publicatiedatum": "TBD",
+  "type_toepassing": "TBD",
+  "categorie": "Applicatieprofiel",
+  "beschrijving": "ap-doelgericht-digitaal-transformeren-config.md",
+  "specificatiedocument": [],
+  "documentatie": [],
+  "charter": [
+    {
+      "naam": "Werkgroep Charter Doelgericht Digitaal Transformeren",
+      "waarde": "Werkgroep Charter OSLO Doelgericht Digitaal Transformeren.docx"
+    }
+  ],
+  "verslagen": [
+    {
+      "naam": "Verslag Business Werkgroep - 16 november 2021",
+      "waarde": "20211116_BusinessWorkshop_MeetingMinutes_OSLODoelgerichtDigitaalTransformeren.docx"
+    },
+    {
+      "naam": "Verslag Thematische Werkgroep I - 14 december 2021",
+      "waarde": "20211214_ThematicWorkshop1_MeetingMinutes_OSLODoelgerichtDigitaalTransformeren.docx"
+    }
+  ],
+  "presentaties": [
+    {
+      "naam": "Presentatie Business Werkgroep - 16 november 2021",
+      "waarde": "20211116 _BusinessWorkshop_Powerpoint_OSLODoelgerichtDigitaalTransformeren.pptx"
+    },
+    {
+      "naam": "Presentatie Thematische Werkgroep I - 14 december 2021",
+      "waarde": "20211214 _ThematicWorkshop1_Powerpoint_OSLODoelgerichtDigitaalTransformeren.pptx"
+    }
+  ],
+  "functioneel_toepassingsgebied": "Semantische standaard voor de digitale transformatie van de cultuursector",
+  "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
+  "datum_van_aanmelding": "1 oktober 2021",
+  "erkenning_werkgroep_datastandaarden": "TBD",
+  "erkenning_stuurgroep": "TBD"
 }
-],
-    "verslagen": [
-{
-	"naam": "Verslag Business Werkgroep - 16 november 2021",
-	"waarde": "20211116_BusinessWorkshop_MeetingMinutes_OSLODoelgerichtDigitaalTransformeren.docx"
-}
-{
-	"naam": "Verslag Thematische Werkgroep I - 16 november 2021",
-	"waarde": "20211214_ThematicWorkshop1_MeetingMinutes_OSLODoelgerichtDigitaalTransformeren.docx"
-}
-],
-    "presentaties": [
-{
-	"naam":	"Presentatie Business Werkgroep - 16 november 2021",
-	"waarde": "20211116 _BusinessWorkshop_Powerpoint_OSLODoelgerichtDigitaalTransformeren.pptx"
-}
-{
-	"naam":	"Presentatie Thematische Werkgroep I - 14 december 2021",
-	"waarde": "20211214 _ThematicWorkshop1_Powerpoint_OSLODoelgerichtDigitaalTransformeren.pptx"
-}
-],
-    "functioneel_toepassingsgebied": "Semantische standaard voor de digitale transformatie van de cultuursector",
-    "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
-    "datum_van_aanmelding": "1 oktober 2021",
-    "erkenning_werkgroep_datastandaarden": "TBD",
-    "erkenning_stuurgroep": "TBD"
-  }
