@@ -2,10 +2,10 @@
 {
   "name": "DoelgerichtDigitaalTransformeren-voc",
   "type": "voc",
-  "eap": "MijnVocabularium-VOC.eap",
-  "diagram": "OSLO-DoelgerichtDigitaalTransformeren",
+  "eap": "DoelgerichtDigitaalTransformeren-AP.eap",
+  "diagram": "OSLO-DDT",
   "template": "DoelgerichtDigitaalTransformeren-voc.j2",
-  "title": "Doelgericht Digitaal Transformeren",
+  "title": "Doelgericht Digitaal Transformeren - Vocabularium",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2021-10-01",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
