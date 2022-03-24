@@ -7,7 +7,12 @@
   "type_toepassing": "TBD",
   "categorie": "Applicatieprofiel",
   "beschrijving": "ap-doelgericht-digitaal-transformeren-config.md",
-  "specificatiedocument": [],
+  "specificatiedocument": [
+    {
+      "naam": "Applicatieprofiel Doelgericht Digitaal Transformeren",
+      "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/doelgericht-digitaal-transformeren"
+    }
+  ],
   "documentatie": [],
   "charter": [
     {
