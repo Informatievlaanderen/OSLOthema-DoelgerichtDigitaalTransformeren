@@ -28,7 +28,23 @@
     {
       "naam": "Verslag Thematische Werkgroep I - 14 december 2021",
       "waarde": "20211214_ThematicWorkshop1_MeetingMinutes_OSLODoelgerichtDigitaalTransformeren.docx"
-    }
+  },
+    {
+      "naam": "Verslag Thematische Werkgroep II - 18 januari 2022",
+      "waarde": "20220118_ThematicWorkshop2_MeetingMinutes_OSLODoelgerichtDigitaalTransformeren.docx"	
+   },
+   {
+      "naam": "Verslag Thematische Werkgroep III - 8 februari 2022",
+      "waarde": "20220208_ThematicWorkshop3_MeetingMinutes_OSLODoelgerichtDigitaalTransformeren.docx"	
+   },
+   {
+      "naam": "Verslag Thematische Werkgroep IV - 8 maart 2022",
+      "waarde": "20220308_ThematicWorkshop4_MeetingMinutes_OSLODoelgerichtDigitaalTransformeren.docx"	
+   },
+   {
+      "naam": "Verslag Thematische Werkgroep V - 29 maart 2023",
+      "waarde": "20220329_ThematicWorkshop5_MeetingMinutes_OSLODoelgerichtDigitaalTransformeren.docx"	
+   }
   ],
   "presentaties": [
     {
@@ -38,7 +54,22 @@
     {
       "naam": "Presentatie Thematische Werkgroep I - 14 december 2021",
       "waarde": "20211214 _ThematicWorkshop1_Powerpoint_OSLODoelgerichtDigitaalTransformeren.pptx"
-    }
+    {
+      "naam": "Presentatie Thematische Werkgroep II - 18 januari 2022",
+      "waarde": "20220118_ThematicWorkshop2_Powerpoint_OSLODoelgerichtDigitaalTransformeren.pptx"
+    },
+    {
+      "naam": ""Presentatie Thematische Werkgroep III - 8 februari 2022",
+      "waarde": "20220208_ThematicWorkshop3_Powerpoint_OSLODoelgerichtDigitaalTransformeren.pptx"
+    },
+    {
+      "naam": ""Presentatie Thematische Werkgroep IV - 8 maart 2022",
+      "waarde": "20220308_ThematicWorkshop4_Powerpoint_OSLODoelgerichtDigitaalTransformeren.pptx"
+    },
+    {
+      "naam": ""Presentatie Thematische Werkgroep V - 29 maart 2023",
+      "waarde": "20220328_ThematicWorkshop5_Powerpoint_OSLODoelgerichtDigitaalTransformeren.pptx"
+    }  
   ],
   "functioneel_toepassingsgebied": "Semantische standaard voor de digitale transformatie van de cultuursector",
   "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
