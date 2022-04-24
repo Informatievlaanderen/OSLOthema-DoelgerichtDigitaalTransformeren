@@ -1,4 +1,6 @@
-Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
-AuteurVoornaam;AuteurNaam;AuteurAffiliatie;auteurvoornaam.auteurnaam@auteurdomein;https://auteurwebsiteurl;A;
-EditorVoornaam;EditorNaam;EditorAffiliatie;editorvoornaam.editornaam@editordomein;https://editorwebsiteurl;E;
-MedewerkerVoornaam;MedewerkerNaam;MedewerkerAffiliatie;medewerkervoornaam.medewerkernaam@medewerkerdomein;https://medewerkerwebsiteurl;C;
+Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom
+Hans;Van der Linden;AuteurAffiliatie;hans.vanderlinden@vlaanderen.be;https://www.vlaanderen.be/cjm/nl;A
+Jitse;De Cock;PwC;jitse.c.cock@pwc.com;https://www.pwc.be/;E
+Eva;De Rore;PwC;eva.de.rore@pwc.com;https://www.pwc.be/;E
+Geert;Thijs;Digitaal Vlaanderen;geert.thijs@vlaanderen.be;https://www.vlaanderen.be/intern;E
+Michael;Mampaey;NSX;michael.mampaey@nsx.normalizedsystems.org;https://normalizedsystems.org/;E
