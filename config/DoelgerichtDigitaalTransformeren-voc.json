@@ -5,13 +5,13 @@
   "eap": "DoelgerichtDigitaalTransformeren-AP.eap",
   "diagram": "OSLO-DDT",
   "template": "DoelgerichtDigitaalTransformeren-voc.j2",
-  "title": "Doelgericht Digitaal Transformeren - Vocabularium",
+  "title": "Cultuurparticipatie - Vocabularium",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2021-10-01",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "MijnKolom",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-DoelgerichtDigitaalTransformeren/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/applicatieprofiel-doelgericht-digitaal-transformeren.html"
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-cultuurparticipatie.html"
 }
 ]
