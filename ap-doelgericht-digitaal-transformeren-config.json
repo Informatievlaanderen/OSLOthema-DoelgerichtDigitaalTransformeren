@@ -10,11 +10,11 @@
   "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Doelgericht Digitaal Transformeren",
-      "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/doelgericht-digitaal-transformeren"
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/doelgericht-digitaal-transformeren"
     },
     {
       "naam": "Vocabularium Cultuurparticipatie",
-      "waarde": "https://test.data.vlaanderen.be/ns/cultuurparticipatie"
+      "waarde": "https://data.vlaanderen.be/ns/cultuurparticipatie"
     }
   ],
   "documentatie": [],
