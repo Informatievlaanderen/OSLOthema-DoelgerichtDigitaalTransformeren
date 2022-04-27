@@ -14,7 +14,7 @@
     },
     {
       "naam": "Vocabularium Cultuurparticipatie",
-      "waarde": "https://test.data.vlaanderen.be/doc/vocabularium/cultuurparticipatie"
+      "waarde": "https://test.data.vlaanderen.be/ns/cultuurparticipatie"
     }
   ],
   "documentatie": [],
