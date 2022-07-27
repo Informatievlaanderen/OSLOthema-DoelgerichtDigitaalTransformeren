@@ -2,7 +2,7 @@
 {
   "name": "DoelgerichtDigitaalTransformeren-ap",
   "type": "ap",
-  "eap": "DoelgerichtDigitaalTransformeren-AP.eap",
+  "eap": "DoelgerichtDigitaalTransformeren-AP - PRv0.2.eap",
   "diagram": "OSLO-DDT",
   "template": "DoelgerichtDigitaalTransformeren-ap.j2",
   "title": "Doelgericht Digitaal Transformeren - Applicatieprofiel",
