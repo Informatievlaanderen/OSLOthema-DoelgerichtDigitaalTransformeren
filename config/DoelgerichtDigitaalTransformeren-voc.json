@@ -2,7 +2,7 @@
 {
   "name": "DoelgerichtDigitaalTransformeren-voc",
   "type": "voc",
-  "eap": "DoelgerichtDigitaalTransformeren-AP.eap",
+  "eap": "DoelgerichtDigitaalTransformeren-AP - PRv0.2.eap",
   "diagram": "OSLO-DDT",
   "template": "DoelgerichtDigitaalTransformeren-voc.j2",
   "title": "Cultuurparticipatie - Vocabularium",
