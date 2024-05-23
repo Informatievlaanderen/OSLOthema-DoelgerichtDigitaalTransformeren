@@ -1,0 +1,1 @@
+De opzet van dit traject is om cultuurparticipatie te verhogen en een impuls te geven aan datagedreven beleid via digitale innovatie. Via het standaardiseren van data, in samenspraak met alle belanghebbenden, zullen datastromen semantisch verrijkt kunnen worden. Dit maakt de data beter vindbaar en begrijpbaar, alsook beter combineerbaar met andere databronnen.

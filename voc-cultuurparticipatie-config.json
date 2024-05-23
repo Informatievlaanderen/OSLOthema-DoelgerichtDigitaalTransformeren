@@ -1,22 +1,22 @@
 {
-  "naam": "Applicatieprofiel Cultuurparticipatie",
+  "naam": "Vocabularium Cultuurparticipatie",
   "rapport": "",
   "verantwoordelijke_organisatie": "Departement Cultuur, Jeugd en Media",
   "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO000067",
   "publicatiedatum": "2022-04-28",
   "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Vocabularium en applicatieprofielen",
-  "beschrijving": "ap-doelgericht-digitaal-transformeren-config.md",
+  "beschrijving": "voc-doelgericht-digitaal-transformeren-config.md",
   "specificatiedocument": [
     {
-      "naam": "Applicatieprofiel Cultuurparticipatie",
-      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/cultuurparticipatie"
+      "naam": "Vocabularium Cultuurparticipatie",
+      "waarde": "https://data.vlaanderen.be/ns/cultuurparticipatie"
     }
   ],
   "documentatie": [
     {
-      "naam": "Vocabularium Cultuurparticipatie",
-      "waarde": "https://data.vlaanderen.be/ns/cultuurparticipatie"
+      "naam": "Applicatieprofiel Cultuurparticipatie",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/cultuurparticipatie"
     }
   ],
   "charter": [
