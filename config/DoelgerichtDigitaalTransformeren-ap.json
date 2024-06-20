@@ -5,14 +5,14 @@
   "eap": "Cultuurparticipatie_Voc_and_AP.eap",
   "diagram": "OSLO-DDT",
   "template": "DoelgerichtDigitaalTransformeren-ap.j2",
-  "title": "Cultuurparticipatie - Applicatieprofiel",
+  "title": "Applicatieprofiel Cultuurparticipatie",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
-  "publication-date": "2023-10-01",
+  "publication-date": "2024-06-20",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "MijnKolom",
   "site": "site-skeleton/DoelgerichtDigitaalTransformeren-ap",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-DoelgerichtDigitaalTransformeren/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkendestandaard/applicatieprofiel_Cultuurparticipatie_1.0.4.html"
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/applicatieprofiel-cultuurparticipatie/"
 }
 ]
