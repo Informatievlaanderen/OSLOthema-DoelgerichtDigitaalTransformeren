@@ -7,7 +7,7 @@
   "template": "DoelgerichtDigitaalTransformeren-ap.j2",
   "title": "Applicatieprofiel Cultuurparticipatie",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
-  "publication-date": "2024-06-20",
+  "publication-date": "2024-09-11",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "MijnKolom",
