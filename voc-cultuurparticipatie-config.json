@@ -2,7 +2,7 @@
   "title": "Vocabularium Cultuurparticipatie",
   "category": "Vocabularium en applicatieprofielen",
   "usage": "Aanbevolen (vrijwillig)",
-  "status": "erkende-standaard",
+  "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
   "descriptionFileName": "voc-doelgericht-digitaal-transformeren-config.md",
   "responsibleOrganisation": [
     {
