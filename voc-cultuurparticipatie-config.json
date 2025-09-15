@@ -93,5 +93,6 @@
   "repository": "OSLOthema-DoelgerichtDigitaalTransformeren",
   "datePublicReviewStart": "",
   "endOfPublicationDate": "",
-  "domain": "https://data.vlaanderen.be/id/concept/Domein/Cultuur"
+  "domain": "https://data.vlaanderen.be/id/concept/Domein/Cultuur",
+  "functionalScope": "Semantische standaard voor de digitale transformatie van de cultuursector"
 }
