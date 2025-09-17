@@ -1,2 +1,5 @@
 2023-09--01
   - Aanpassing label van RealisatorType zodat dit correct wordt weergegeven op data.vlaanderen.be
+
+2025-09-17
+- TaalString Datatype tag toegevoegd `literal` met als waarde `true` voor de `shacl-generator`
