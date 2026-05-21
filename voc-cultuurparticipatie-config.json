@@ -1,6 +1,6 @@
 {
   "title": "Vocabularium Cultuurparticipatie",
-  "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+  "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
   "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
   "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
   "descriptionFileName": "voc-doelgericht-digitaal-transformeren-config.md",
@@ -10,7 +10,7 @@
       "resourceReference": "http://data.vlaanderen.be/id/organisatie/OVO000067"
     }
   ],
-  "publicationDate": "2022-04-28",
+  "publicationDate": "2024-09-11",
   "specificationDocuments": [
     {
       "name": "Vocabularium Cultuurparticipatie",
